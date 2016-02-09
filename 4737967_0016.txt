@@ -1,0 +1,53 @@
+mmffaemuuw‘
+
+c teris Δ1ὶ aequilateri fint areae trianguli aequales) non nifi vero effet proxi-
+mum.
+Ego vero solutionem a Columella· propositam demonstrari posse contendo.
+Ut demonstratio dilucidior, promptior et cognitu facilior fit, quantitates et
+'elatas et inveniendas literis alphabeti infignibimus, ao repraesentabimus e. g.
+
+aream triquetri per literam A, latus triquetri aequilateri per literam a, latua
+duarum dimensionum, seu latus in se multiplicatum per aa, vel α’.
+
+Quibus literis expressa formula ad inveniendam triquetri aequilateri
+aream a Columella propofita haec est:
+
+A=—÷—.
+
+Quam autem formulam mutari licet fic:
+A=a³><ff÷a'><·¹-¹3,2et porro
+cum fint -ξ- = 0‚83838 . . . et ⁴1³3: 0‚1
+A=a³><o‚88338 . . · -Ι- a³>< o‚1
+=a³><(0,38833 -Ι- 0‚1)
+=a³><05433333 . . . .
+Quaeritur: an haec formula
+
+A=a²><o,43388 . . . .
+det in rigore geometrico aream trianguli aequilateri? ·
+
+Ut inveniatur area trianguli cuiuslibet, didicimus ex elementis geometriae,
+
+1) multiplicetur baiis per altitudinem, erit productum area rectanguli eiusdem
+baseos et altitudinis3
+2) productum dividatur bifariam. Ita prodit area trianguli.
+
+Aliter: Bafis dimidia multiplicetur per altitudinem, vel bafis per altitudinem di·
+midiam. Factum erit area trianguli.
+
+Pofitis basi = b, altitudine: a,
+—aX b α b‘
+
+2 =3><h=a><2—.
+
+ 
+
+Priusquam huius problematis resolutione, quae in elementis geometriae
+demonstratur, ad trianguli aequilateri, cuius tantummodo latera data *sumnus-‘-
+meris, aream inveniendam uti poffumus, altitudo quae non est data, ratioci-
+nando ex bafi aut latere trianguli nobis supputanda est.
+
+Quodfi ponamus (cf. Fig. 1.) basm trianguli aequilateri AB==a‚ altitudo
+CD erit— .- disq—‘w , quod ex geometriae elementis facile demonstrari potest.
+
+Hanc autem formulam mutari fic licet·
+

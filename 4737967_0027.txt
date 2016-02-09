@@ -1,0 +1,55 @@
+⁴nemnem ,13 mm
+
+Quibus ex demonstrationibus patet, adhibita Columellae forn-ula inveniri
+aream segmenti arcu's 60⁰=(-¹2- d)²><Q,00302 maiorem
+90⁰ veram
+1 20⁰: (ξ- d)² >< 0-,00302 minorem
+180ο veram,
+ubi facta ex hac formula comparaveris cum productis , quae oriuntur ex Archi-
+medis pro circulo metiendo formula data, pofita diametri ad peripheriam ratione
+ut 7 ad 22. Quam rationem 7:22, etsl non fit satis accurata, his in demonstra-
+tionibus et supputationibus adhibere non dubitavi, quia Columella nullam aliam
+peripheriase ad diametrum rationem censens accuratiorem, hac in supputationi-
+bus suis u us est.
+
+ 
+
+Denique nobis est perquirendum , quam accuratum fit factum exempli a
+Columella exhibitum. Ducimur hac disquifitione ad problema:
+
+„Datis chorda ct sagitta, seu bafi et altitudine segmenti invenire aream eius.'’
+Ex trigonometrie planae elementis meminiffe iuvat, quomodo datis radio circuli
+et quantitate graduum arcus area segmenti inveniatur. Repraesentatis radio per
+r, quantitate graduum per n, et area segmenti per A, est
+
+,ΛΞ-ξπ, (gg - fin n) aut, fi respiciamus ad diametrum d, cum r' fitz—iffi,
+
+—.¹- ηπ “ ²
+-. ⁸ (na -- fin n)><d l)
+Positis (cf. Fig. Vl) DF=d‚ DE=s, AB=c‚ BE:..-{—c3 datis s et c, suppu-
+tetur diametri quantitas.
+Quod fit adhibita proportione continua hacce:
+DE:BE= BE:EF,
+
+i. e. s:}c={-c:d— s,
+
+ 
+
+ 
+
+consequenter cl - s Ξ (ἐξ),
+et a: (ἕ ⁰³² -ι- s Π)
+
+DE autem est :CB—{Ezr— rcos{-n
+·.=.r(1 -cos{n)
+aut ⁸={-cl(1—cos-}n)
+
+Pofito quoto -ΞΞ Ic 111) erit
+
+h=÷d(1-Zor÷n)=}(¹ -—- cos-{- n)
+
+ 
+
+consequenter 2 h = 1 — cos} n
+ergo , οοΓ-ξ-ηΞΙ-Ξῆ.
+
